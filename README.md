@@ -5,6 +5,7 @@
 <hr>
 
 <h2>How to run the project:</h2>
+<p>Run the command <b>"yarn":</b> to install all the dependencies.</p>
 <p>Run the command <b>"yarn start":</b> to start the development environment.</p>
 
 <table >
